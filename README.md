@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/s0xzwasd/intellij-clickhouse-docker-example?style=flat-square) 
+
 An example of [ClickHouse OLAP DBMS](https://clickhouse.com/) database
 using [yandex/clickhouse-server](https://registry.hub.docker.com/r/yandex/clickhouse-server) image in IntelliJ-based
 IDEs.
